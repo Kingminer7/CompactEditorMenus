@@ -1,7 +1,10 @@
 # Changes trigger UI's to have more compact menus
 
-Credit: **JustaDude64** for his concepts made with Devtools
+Credits:\
+**JustaDude64** for his concepts made with Devtools\
+**km7dev** for the Change BG/MG/G ui
 
 Menus modified:
 - Startpos menu
-- Just that one <cr>for now</c>
+- Change BG/MG/G
+- Just those <cr>for now</c>
